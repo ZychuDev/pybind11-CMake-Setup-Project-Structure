@@ -1,0 +1,7 @@
+venv-minimal/
+build/
+.eggs/
+minimal.egg-info/
+__pycache__/
+
+.so
